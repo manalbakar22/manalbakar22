@@ -22,9 +22,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/26818716/manal-bakar" target="_blank">
-    <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.0.0/stackoverflow.svg" alt="Stack Overflow" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Stack_Overflow_icon.svg" alt="Stack Overflow" height="30" width="30" />
   </a>
 </p>
+
 
 
 

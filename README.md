@@ -14,29 +14,11 @@
 - 📄 Know about my experiences  <a href="manalBakar.pdf" target="_blank">my resume</a>
 
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Connect with Me</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
-<body>
-    <h3 align="left"> 🌐 Connect with me:</h3>
-    <p align="left">
-        <a href="https://www.linkedin.com/in/manal-bakar-0b7b8b274" target="_blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://stackoverflow.com/users/26818716/manal-bakar" target="_blank">
-            <i class="fab fa-stack-overflow" style="font-size: 30px; color: #f48024;"></i>
-        </a>
-    </p>
-</body>
-</html>
-
+<h3 align="left"> 🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/manal-bakar-0b7b8b274" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manal-bakar-0b7b8b274" height="30" width="40" /></a>
+</p>
 
 
 

@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/manal-bakar-0b7b8b274" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manal-bakar-0b7b8b274" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/26818716/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26818716/" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/26818716/manal-bakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/26818716/" height="30" width="40" /></a>
 </p>
 
 

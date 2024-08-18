@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Manal  BAKAR</h1>
+<h1 align="center">Hi 👋, I'm  Manal nnn BAKAR</h1>
 <h3 align="center">A dedicated Full Stack Developer, Software Engineer, and passionate about Data Science</h3>
 
 

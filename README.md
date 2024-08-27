@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated Full Stack Developer, Software Engineer, and passionate about Data Science</h3>
 
 
-- 🌱 I’m an Angular, *.NET Developer with a passion for Data Science and Business Intelligence.*
+- 🌱 I’m an Angular vv, *.NET Developer with a passion for Data Science and Business Intelligence.*
 
 - 💬 Ask me about *anything related to modern web technologies, Data Science, and Business Intelligence.*
 

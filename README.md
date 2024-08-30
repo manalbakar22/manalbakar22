@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Manal  BAKAR</h1>
-<h3 align="center">A dedicated Full Stack Developer,Software Engineer, and passionate about Data Science b</h3>
+<h3 align="center">A dedicated Full Stack Developer,Software Engineer, and passionate about Data Science </h3>
 
 
 - 🌱 I’m an Angular , *.NET Developer with a passion for Data Science and Business Intelligence.*

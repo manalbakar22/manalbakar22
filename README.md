@@ -10,7 +10,7 @@
 
 - 📫 How to reach me manalbakar22@gmail.com
 
-- 📄 Know about my experiences  <a href="manalBakar.pdf" target="_blank">my resume</a>
+- 📄 Know about my experiences  <a href="Manal - BAKAR.pdf" target="_blank">my resume</a>
 
 
 <h3 align="left"> 🌐 Connect with me:</h3>
